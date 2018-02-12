@@ -1,0 +1,10 @@
+c:\users\alumnos\documents\visual studio 2015\Projects\UNACH\UNACH.Windows.Calculadora\bin\Debug\UNACH.Windows.Calculadora.exe.config
+C:\Users\Heriberto\Documents\Visual Studio 2015\Projects\UNACH\UNACH.Windows.Calculadora\bin\Debug\UNACH.Windows.Calculadora.exe.config
+C:\Users\Heriberto\Documents\Visual Studio 2015\Projects\UNACH\UNACH.Windows.Calculadora\bin\Debug\UNACH.Windows.Calculadora.exe
+C:\Users\Heriberto\Documents\Visual Studio 2015\Projects\UNACH\UNACH.Windows.Calculadora\bin\Debug\UNACH.Windows.Calculadora.pdb
+C:\Users\Heriberto\Documents\Visual Studio 2015\Projects\UNACH\UNACH.Windows.Calculadora\obj\Debug\UNACH.Windows.Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Heriberto\Documents\Visual Studio 2015\Projects\UNACH\UNACH.Windows.Calculadora\obj\Debug\UNACH.Windows.Calculadora.Form1.resources
+C:\Users\Heriberto\Documents\Visual Studio 2015\Projects\UNACH\UNACH.Windows.Calculadora\obj\Debug\UNACH.Windows.Calculadora.Properties.Resources.resources
+C:\Users\Heriberto\Documents\Visual Studio 2015\Projects\UNACH\UNACH.Windows.Calculadora\obj\Debug\UNACH.Windows.Calculadora.csproj.GenerateResource.Cache
+C:\Users\Heriberto\Documents\Visual Studio 2015\Projects\UNACH\UNACH.Windows.Calculadora\obj\Debug\UNACH.Windows.Calculadora.exe
+C:\Users\Heriberto\Documents\Visual Studio 2015\Projects\UNACH\UNACH.Windows.Calculadora\obj\Debug\UNACH.Windows.Calculadora.pdb
